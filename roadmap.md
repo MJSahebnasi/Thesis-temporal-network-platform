@@ -1,4 +1,5 @@
-### - we want *continues* time simulation
+### - *continues* time simulation  
+### - need to keep track of *off* nodes
 
 - [ ] produce random nums with specified distribution:  
   - [ ] basic
