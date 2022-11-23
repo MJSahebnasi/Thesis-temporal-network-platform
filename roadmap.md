@@ -2,8 +2,7 @@
 
 - [ ] produce random nums with specified distribution:  
   - [ ] basic
-  - [ ] magnitude? (each num)
-  - [ ] range? (min to max)
+  - [ ] range (min to max)
   - [ ] traffic generator
 
 - [ ] events:
