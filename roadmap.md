@@ -13,6 +13,9 @@
     - [ ] node [/edge?] sudden death (attack)
     - [ ] node [/edge?] on/off
   - [ ] implementation:
+    - [ ] for each process we need 2 implementations: 
+          one with time generator func passed, one with entity-time pairs passed
+          overloading?
     - [ ] node [/edge?] entrance
     - [ ] node [/edge?] natural death (end of life span)
     - [ ] node [/edge?] attack (sudden death)
