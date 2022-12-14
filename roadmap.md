@@ -2,7 +2,7 @@
 ### - need to keep track of *off* nodes
 
 - [ ] Simulation Class:
-  - [x] init
+  - [x] init simulation
     + [ ] when creating each process we need 2 implementations: one with time generator func passed, one with entity-time pairs passed
           overloading?
   - [ ] create events
