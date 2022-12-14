@@ -3,14 +3,11 @@
 
 - [ ] Simulation Class:
   - [x] init simulation
-    + [ ] when creating each process we need 2 implementations: one with time generator func passed, one with entity-time pairs passed
-          overloading?
+    - [ ] report: outcome/snapshot/full
   - [ ] create events
   - [ ] run
-    - [ ] event selector
+    - [ ] event selector: heap
     - [ ] event executer: implemented inside each event class
-    - [ ] snapshot
-    - [ ] history ?
 
 - [ ] events:
   - [x] types:
@@ -23,9 +20,4 @@
     - [ ] node [/edge?] natural death (end of life span)
     - [ ] node [/edge?] attack (sudden death)
     - [ ] node [/edge?] on/off
-
-- [ ] produce random nums with specified distribution:  
-  - [ ] basic
-  - [ ] range (min to max)
-  - [ ] traffic generator
 
