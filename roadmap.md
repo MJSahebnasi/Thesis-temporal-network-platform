@@ -5,6 +5,7 @@
   - [x] init
     + [ ] when creating each process we need 2 implementations: one with time generator func passed, one with entity-time pairs passed
           overloading?
+  - [ ] create events
   - [ ] run
     - [ ] event selector
     - [ ] event executer: implemented inside each event class
@@ -17,7 +18,7 @@
     - [x] node [/edge?] natural death (end of life span)
     - [x] node [/edge?] sudden death (attack)
     - [x] node [/edge?] on/off
-  - [ ] implementation:
+  - [ ] implementation: event.execute()
     - [ ] node [/edge?] entrance
     - [ ] node [/edge?] natural death (end of life span)
     - [ ] node [/edge?] attack (sudden death)
