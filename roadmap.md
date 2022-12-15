@@ -4,10 +4,10 @@
 - [ ] Simulation Class:
   - [x] init simulation
     - [ ] report: outcome/snapshot/full
-  - [ ] create events
+  - [x] create events
   - [ ] run
-    - [ ] event selector: heap
-    - [ ] event executer: implemented inside each event class
+    - [x] event selector: heap
+    - [ ] event executer: use the implementation inside each event class
 
 - [ ] events:
   - [x] types:
@@ -16,8 +16,3 @@
     - [x] node [/edge?] sudden death (attack)
     - [x] node [/edge?] on/off
   - [ ] implementation: event.execute()
-    - [ ] node [/edge?] entrance
-    - [ ] node [/edge?] natural death (end of life span)
-    - [ ] node [/edge?] attack (sudden death)
-    - [ ] node [/edge?] on/off
-
