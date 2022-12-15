@@ -8,6 +8,7 @@ events:
     - [x] node [/edge?] sudden death (attack)
     - [x] node [/edge?] on/off
   - [ ] implementation: event.execute()
+    - [ ] redesign neighbors for entrance & on
 
 Simulation Class:
   - [x] init simulation
@@ -15,5 +16,5 @@ Simulation Class:
   - [x] create events
   - [ ] run
     - [x] event selector: heap
-    - [ ] event executer: use the implementation inside each event class
+    - [x] event executer: use the implementation inside each event class
   
