@@ -1,7 +1,7 @@
 ### - *continues* time simulation  
 ### - need to keep track of *off* nodes
 
-- [ ] events:
+events:
   - [x] types:
     - [x] node [/edge?] entrance
     - [x] node [/edge?] natural death (end of life span)
@@ -9,7 +9,7 @@
     - [x] node [/edge?] on/off
   - [ ] implementation: event.execute()
 
-- [ ] Simulation Class:
+Simulation Class:
   - [x] init simulation
     - [ ] report: outcome/snapshot/full
   - [x] create events
