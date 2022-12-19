@@ -1,6 +1,3 @@
-### - *continues* time simulation  
-### - need to keep track of *off* nodes
-
 events:
   - [x] types:
     - [x] node [/edge?] entrance
