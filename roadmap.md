@@ -1,4 +1,4 @@
-events:
+## events:
   - [x] types:
     - [x] node [/edge?] entrance
     - [x] node [/edge?] natural death (end of life span)
@@ -10,7 +10,7 @@ events:
     - [x] node [/edge?] sudden death (attack)
     - [x] node [/edge?] on/off
 
-Simulation Class:
+## Simulation Class:
   - [x] init simulation
     - [ ] init report property: outcome/snapshot/full
   - [x] create events
@@ -22,12 +22,14 @@ Simulation Class:
     - [ ] snapshot
     - [ ] full
    
-Auxiliary:
+## Auxiliary:
   - [ ] graphic reports?
   - [ ] advanced input validation
 
-TEST
+## TEST
   - [ ] functional tests
   - [ ] performance tests
   
-- [ ] DOC website
+## DOC website
+
+## Release
