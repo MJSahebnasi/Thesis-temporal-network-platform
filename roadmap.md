@@ -12,15 +12,13 @@
 
 ## Simulation Class:
   - [x] init simulation
-    - [ ] init report property: outcome/snapshot/full
   - [x] create events
   - [x] run
     - [x] event selector: heap
     - [x] event executer: use the implementation inside each event class
   - [ ] report: 
-    - [ ] outcome
-    - [ ] snapshot
-    - [ ] full
+    - [x] outcome
+    - [ ] snapshot: change in design required: must add off_nodes, time, ... to the snapshot report
    
 ## Auxiliary:
   - [ ] graphic reports?
