@@ -1,2 +1,2 @@
-# temporal-network-platform
-a set of tools that help you make your network temporal
+# Thesis: temporal network platform
+a study on temporal networks, using a set of generic tools that I have developed for running simulations on the networks
